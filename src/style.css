@@ -1,0 +1,13 @@
+section {
+  height: 100vh;
+  background: #000000;
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+}
+
+h1 {
+  color: #fff;
+  font-size: 36px;
+}
